@@ -1,12 +1,12 @@
 ---
 # Display name
-title: 吳
+title: 段广東
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Guangdong DUAN
 
 # Full name (for SEO)
-first_name: Shiung Wu
+first_name: Guangdong
 last_name: Duan 
 
 # Status emoji
@@ -25,7 +25,7 @@ role: Associate Professor
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: DMU 
-    url: https://openai.com/
+    url: https://www.researchgate.net/profile/Guangdong-Duan
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,16 +47,17 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
   - Computational Fluid Dynamics 
-  - Boundary-Layer Meteorology and Built Environment
+  - Boundary-Layer Meteorology
+  - Urban and Built Environment
   - Engineering Thermophysics 
+  - Artificial Intelligence
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Energy and Environmental Science 
+    institution: City University of Hong Kong
+    date_start: 2014-08
+    date_end: 2018-02
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -85,23 +86,34 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Associate Professor 
+    company_name: Dalian Maritime University 
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2021-10
     date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Research Assistant Professor 
+    company_name: Kyoto University 
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2019-06
+    date_end: 2021-10
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Postdoc Fellow 
+    company_name: City University of Hong Kong
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-03
+    date_end: 2019-05
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
@@ -146,9 +158,7 @@ languages:
   - name: English
     percent: 100
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100 
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -184,4 +194,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+ Guangdong is an Associate Professor at Dalian Maritime University. His research interests include ...
