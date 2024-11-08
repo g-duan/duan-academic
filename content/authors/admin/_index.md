@@ -108,9 +108,8 @@ awards:
     url: https://www.cityu.edu.hk/see/outreach/news-center/excellent-poster-award-97th-ams-annual-meeting
     date: '2017-02-01'
     awarder: AMS Annual Meeting
-
+---
 
 ## About Me
 
 Guangdong is an Associate Professor at Dalian Maritime University. His research interests include urban boundary-layer meteorology, air pollution and exposure, urban ventilation and built environment.
----
