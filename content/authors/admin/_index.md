@@ -105,7 +105,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: AMS Excellent Poster Presentation Award
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    url: https://www.cityu.edu.hk/see/outreach/news-center/excellent-poster-award-97th-ams-annual-meeting
     date: '2017-02-01'
     awarder: AMS Annual Meeting
 
