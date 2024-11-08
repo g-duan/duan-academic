@@ -56,8 +56,8 @@ interests:
 education:
   - area: PhD Energy and Environmental Science 
     institution: City University of Hong Kong
-    date_start: 2014-08
-    date_end: 2018-02
+    date_start: 2014-08-30
+    date_end: 2018-02-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -90,7 +90,7 @@ work:
     company_name: Dalian Maritime University 
     company_url: ''
     company_logo: ''
-    date_start: 2021-10
+    date_start: 2021-10-01
     date_end: ''
     summary: |2-
       Responsibilities include:
@@ -101,8 +101,8 @@ work:
     company_name: Kyoto University 
     company_url: ''
     company_logo: ''
-    date_start: 2019-06
-    date_end: 2021-10
+    date_start: 2019-06-01
+    date_end: 2021-10-01
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
@@ -112,8 +112,8 @@ work:
     company_name: City University of Hong Kong
     company_url: ''
     company_logo: ''
-    date_start: 2018-03
-    date_end: 2019-05
+    date_start: 2018-03-01
+    date_end: 2019-05-01
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
