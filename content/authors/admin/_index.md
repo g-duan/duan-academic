@@ -103,9 +103,10 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+#   url: https://www.cityu.edu.hk/see/outreach/news-center/excellent-poster-award-97th-ams-annual-meeting
 awards:
   - title: AMS Excellent Poster Presentation Award
-    url: https://www.cityu.edu.hk/see/outreach/news-center/excellent-poster-award-97th-ams-annual-meeting
+    url: https://ams.confex.com/ams/97Annual/webprogram/Paper310848.html
     date: '2017-02-01'
     awarder: AMS Annual Meeting
 ---
