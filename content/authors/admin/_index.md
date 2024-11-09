@@ -38,9 +38,9 @@ profiles:
   - icon: brands/github
     url: https://github.com/g-duan
   - icon: academicons/google-scholar
-    url: https://www.researchgate.net/profile/Guangdong-Duan  
+    url: https://scholar.google.com/citations?user=NubRV5IAAAAJ&hl=en  
   - icon: custom/ResearchGate
-    url: https://scholar.google.com/citations?user=NubRV5IAAAAJ&hl=en
+    url: https://www.researchgate.net/profile/Guangdong-Duan
   - icon: academicons/orcid
     url: https://orcid.org/0000-0003-3045-9261
 
@@ -111,5 +111,6 @@ awards:
 
 ## About Me
 
-This personal website is under construction following [https://hugoblox.com/templates/details/academic-cv/] ...
-Guangdong is an Associate Professor at Dalian Maritime University. His research interests include urban boundary-layer meteorology, air pollution and exposure, urban ventilation and built environment.
+This website is under construction following [https://hugoblox.com/templates/details/academic-cv/] ...
+
+Dr. Duan is currently an Associate Professor at Dalian Maritime University. His research interests include urban boundary-layer meteorology, air pollution and exposure, urban ventilation and built environment.
