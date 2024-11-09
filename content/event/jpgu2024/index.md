@@ -1,10 +1,10 @@
 ---
-title: Talk at AOGS2024 21st ANNUAL MEETING
+title: Talk at Japan Geoscience Union Meeting 2024
 
-event: AOGS2024 21st ANNUAL MEETING
+event: JpGU2024
 event_url: https://example.org
 
-location: Pyeongchang, Gangwon-do, Home to Winter Olympics
+location: Chiba, Japan
 address:
   street: 450 Serra Mall
   city: Stanford
@@ -17,8 +17,8 @@ abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-06-23T08:00:00Z'
-date_end: '2024-06-28T08:00:00Z'
+date: '2024-05-26T08:00:00Z'
+date_end: '2024-05-31T08:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).

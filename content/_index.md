@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
-date: 2022-10-24
+title: "Guangdong Duan"
+date: 2024-11-09
 type: landing
 
 design:
@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My research interests include urban micrometeorology, atmospheric air pollution and turbulence-resolving numerical modelling. I remain particularly interested in the fundamental aspects underlying the complex interaction of bluff body with fluids in general, and engineering-environmental fluid dynamics and boundary-layer turbulence in particular.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I have been enthusiastic about research topics, including 1) urban wind hazards and overheating; 2) outdoor ventilation under complex micrometeorological forcing; 3) air pollution exposure and environmental sustainability; and 4) downscaling of mesoscale perturbations into building-resolving large-eddy simulation (LES), aiming to address critical questions related to urban climate and microenvironments, which attract increasing concerns in the academic community amidst the significant changes brought by global climate change.
         
-        Please reach out to collaborate 😃
+        
     design:
       columns: '1'
   - block: collection
@@ -52,7 +52,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 1
   - block: collection
     content:
       title: Recent Publications
@@ -66,7 +66,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Recent Talks
       filters:
         folders:
           - event
