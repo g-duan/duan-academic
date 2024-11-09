@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 段广東
+title: Guangdong Duan 段广東
 
 # Name pronunciation (optional)
-name_pronunciation: Guangdong DUAN
+name_pronunciation: '' 
 
 # Full name (for SEO)
 first_name: Guangdong
@@ -113,4 +113,4 @@ awards:
 
 ## About Me
 
-Guangdong is an Associate Professor at Dalian Maritime University. His research interests include urban boundary-layer meteorology, air pollution and exposure, urban ventilation and built environment.
+This personal website is constructed following [https://hugoblox.com/templates/details/academic-cv/] Guangdong is an Associate Professor at Dalian Maritime University. His research interests include urban boundary-layer meteorology, air pollution and exposure, urban ventilation and built environment.
