@@ -1,12 +1,12 @@
 ---
-title: "Aerodynamic heater"
+title: "Turbulent flow over aligned cylinders"
 authors:
 - admin
-date: "2024-11-07T00:00:00Z"
+date: "2017-01-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-06-07T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -23,21 +23,21 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Preprint of ATE
+- G. Duan* et al. (2024) Physics of Fluids
 
 featured: true
 
 links:
 - name: DOI
-  url: https://doi.org/10.1007/s10652-019-09690-0
-url_pdf: https://doi.org/10.1007/s10652-019-09690-0
+  url: https://doi.org/10.1063/5.0211112
+url_pdf: https://doi.org/10.1063/5.0211112
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-%url_dataset: '#'
-url_poster: '#'
-%url_project: ''
-%url_slides: ''
-%url_source: '#'
-%url_video: '#'
+#url_dataset: '#'
+#url_poster: '#'
+#url_project: ''
+#url_slides: ''
+#url_source: '#'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -62,8 +62,7 @@ projects:
 slides: example
 ---
 
-This work is driven by the need for an economical means for pre-heating of air in industrial drying.
-# [previous paper](/publication/conference-paper/) on LLMs.
+This paper belongs to [Flow and Civil Structures](https://pubs.aip.org/pof/collection/258879/Flow-and-Civil-Structures) of Physics of Fluids.
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.

@@ -1,5 +1,5 @@
 ---
-title: "Scalar mixing for varied emissions"
+title: "Scalar mixing for localised emissions"
 authors:
 - admin
 date: "2017-01-07T00:00:00Z"
@@ -28,16 +28,16 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+- name: DOI
+  url: https://doi.org/10.1007/s10652-019-09690-0
+url_pdf: https://ams.confex.com/ams/97Annual/webprogram/Handout/Paper310848/poster-mixing-17Jan2017.pdf
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+#url_dataset: '#'
+url_poster: 'https://ams.confex.com/ams/97Annual/webprogram/Paper310848.html'
+#url_project: ''
+#url_slides: ''
+#url_source: '#'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -62,7 +62,7 @@ projects:
 slides: example
 ---
 
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
+This work is led by Dr. K. Ngan, and funded by the Research Grants Council of Hong Kong (RGC), Early Career Scheme: ["Ventilation And Mixing Timescales For Urban Air Quality"](https://scholars.cityu.edu.hk/en/projects/ventilation-and-mixing-timescales-for-urban-air-quality(90e7862f-9f2f-4e96-ab7e-8d6ac9f5e367).html), 2015–2018.09.
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
