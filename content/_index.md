@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research interests encompass urban micrometeorology, atmospheric air pollution, and turbulence-resolving numerical modeling. I am particularly focused on the fundamental dynamics underlying the complex interactions between bluff bodies and fluids, with an emphasis on engineering-environmental fluid dynamics and boundary-layer turbulence.
+        My research interests encompass urban micrometeorology, atmospheric air pollution, and turbulence-resolving numerical modelling. I am particularly focused on the fundamental dynamics underlying the complex interactions between bluff bodies and fluids, with an emphasis on engineering-environmental fluid dynamics and boundary-layer turbulence.
 
         I am passionate about topics including: 1) urban wind hazards and overheating; 2) outdoor ventilation influenced by complex micrometeorological forcing; 3) air pollution exposure and environmental sustainability; 4) downscaling mesoscale perturbations into building-resolving large-eddy simulations (LES); and 5) fluid dynamics and thhermophysics in engineering practices. My work aims to address critical questions in urban climate and microenvironments—areas of growing academic concern amid the substantial changes brought by global climate change.
         
