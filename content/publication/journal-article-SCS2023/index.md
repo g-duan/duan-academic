@@ -23,14 +23,14 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- G. Duan*, T. Takemi \& K. Ngan (2023) Sustainable Cities and Society
+- G. Duan\*, T. Takemi \& K. Ngan (2023) Sustainable Cities and Society
 
 featured: true
 
 links:
 - name: DOI
-  url: ‘https://doi.org/10.1016/j.scs.2023.104501‘
-url_pdf: ’https://doi.org/10.1016/j.scs.2023.104501’
+  url: 'https://doi.org/10.1016/j.scs.2023.104501'
+url_pdf: 'https://doi.org/10.1016/j.scs.2023.104501'
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: '#'
 #url_poster: '#'
