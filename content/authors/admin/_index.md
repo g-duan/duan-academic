@@ -79,7 +79,7 @@ work:
   - position: Research Assistant Professor 
     company_name: Disaster Prevention Research Institute, Kyoto University 
     company_url: https://www.dpri.kyoto-u.ac.jp/en/
-    company_logo: 'custom/KyotoU'
+    company_logo: ![kyotou](/KyotoU.svg 'kyotou')
     date_start: 2019-06-01
     date_end: 2021-10-01
 
