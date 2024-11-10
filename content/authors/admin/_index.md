@@ -113,4 +113,4 @@ awards:
 
 This website is still under construction [HERE](https://hugoblox.com/templates/details/academic-cv/) ... Hopefully the current version provides sufficient informattion for reaching out.
 
-I realised that eventually I’d need to create a personal website to introduce my research. The university’s website is quite outdated, and with an uncertain transition in my next-term appointment, this site offers a reliable way to share my work. I am currently an Associate Professor at Dalian Maritime University. My research focuses on urban boundary-layer meteorology, air pollution and exposure, urban ventilation, and engineering thermophysics.
+I realised that eventually I’d need to create a personal website to introduce my research. The university’s website is quite outdated, and with an uncertain transition in my next-term appointment, this site offers a reliable way to share my work. I am currently an Associate Professor at Dalian Maritime University. My research focuses on urban boundary-layer meteorology, air pollution and exposure, environmental and engineering fluid mechanics and thermophysics.
