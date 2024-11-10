@@ -29,11 +29,11 @@ featured: true
 
 links:
 - name: DOI
-  url: 'https://doi.org/10.1007/s10652-019-09690-0'
-url_pdf: 'https://ams.confex.com/ams/97Annual/webprogram/Handout/Paper310848/poster-mixing-17Jan2017.pdf'
+  url:  https://doi.org/10.1007/s10652-019-09690-0 
+url_pdf:  https://ams.confex.com/ams/97Annual/webprogram/Handout/Paper310848/poster-mixing-17Jan2017.pdf 
+url_poster:  https://ams.confex.com/ams/97Annual/webprogram/Paper310848.html 
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: '#'
-url_poster: 'https://ams.confex.com/ams/97Annual/webprogram/Paper310848.html'
 #url_project: ''
 #url_slides: ''
 #url_source: '#'

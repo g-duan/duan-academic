@@ -32,12 +32,12 @@ links:
   url:  https://doi.org/10.1007/s10652-019-09690-0 
 url_pdf:  https://doi.org/10.1007/s10652-019-09690-0 
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-%url_dataset: '#'
-url_poster: '#'
-%url_project: ''
-%url_slides: ''
-%url_source: '#'
-%url_video: '#'
+#url_dataset: '#'
+#url_poster: '#'
+#url_project: ''
+#url_slides: ''
+#url_source: '#'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
