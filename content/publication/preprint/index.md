@@ -29,8 +29,8 @@ featured: true
 
 links:
 - name: DOI
-  url: 'https://doi.org/10.1007/s10652-019-09690-0'
-url_pdf: 'https://doi.org/10.1007/s10652-019-09690-0'
+  url:  https://doi.org/10.1007/s10652-019-09690-0 
+url_pdf:  https://doi.org/10.1007/s10652-019-09690-0 
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 %url_dataset: '#'
 url_poster: '#'
