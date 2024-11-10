@@ -29,8 +29,8 @@ featured: true
 
 links:
 - name: DOI
-  url: https://doi.org/10.1016/j.scs.2023.104501
-url_pdf: https://doi.org/10.1016/j.scs.2023.104501
+  url: ‘https://doi.org/10.1016/j.scs.2023.104501‘
+url_pdf: ’https://doi.org/10.1016/j.scs.2023.104501’
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: '#'
 #url_poster: '#'
