@@ -63,7 +63,6 @@ slides: example
 ---
 
 This work is driven by the need for an economical means for pre-heating of air in industrial drying.
-# [previous paper](/publication/conference-paper/) on LLMs.
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
