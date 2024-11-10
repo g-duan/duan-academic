@@ -23,7 +23,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- G. Duan\*, T. Takemi \& K. Ngan (2023) Sustainable Cities and Society
+- G. Duan, T. Takemi & K. Ngan (2023) Sustainable Cities and Society
 
 featured: true
 
