@@ -71,23 +71,22 @@ work:
   - position: Associate Professor 
     company_name: Dalian Maritime University 
     company_url: 'https://english.dlmu.edu.cn/'
-    company_logo: custom/DMU
+    company_logo: 'custom/DMU'
     date_start: 2021-10-01
     date_end: ''
 
     
   - position: Research Assistant Professor 
     company_name: Disaster Prevention Research Institute, Kyoto University 
-    company_url: 'https://www.dpri.kyoto-u.ac.jp/en/'
-    company_logo: ''
-    company_logo: custom/KyotoU
+    company_url: https://www.dpri.kyoto-u.ac.jp/en/
+    company_logo: 'custom/KyotoU'
     date_start: 2019-06-01
     date_end: 2021-10-01
 
   - position: Postdoc Fellow 
     company_name: City University of Hong Kong
     company_url: 'https://www.cityu.edu.hk/'
-    company_logo: custom/CityU
+    company_logo: 'custom/CityU'
     date_start: 2018-03-01
     date_end: 2019-05-01
 
