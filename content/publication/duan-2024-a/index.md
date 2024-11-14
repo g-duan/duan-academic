@@ -36,4 +36,6 @@ abstract: Strategic vegetation placement can significantly alter airflow pattern
 links:
 - name: URL
   url: https://doi.org/10.1063/5.0227565
+image: 
+  preview only: true
 ---
