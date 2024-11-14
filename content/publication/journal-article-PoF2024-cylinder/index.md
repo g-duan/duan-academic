@@ -2,11 +2,11 @@
 title: "Turbulent flow over aligned cylinders"
 authors:
 - admin
-date: "2017-01-07T00:00:00Z"
-doi: ""
+date: "2024-07-02T00:00:00Z"
+doi: "https://doi.org/10.1063/5.0211112"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-06-07T00:00:00Z"
+# publishDate: "2024-06-07T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,7 +17,7 @@ publication_types: ["article"]
 publication: "Physics of Fluids"
 publication_short: "Phys. Fluids"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Turbulent flow and boundary-layer (BL) characteristics over cylindrical obstacles have been understudied compared to the flow dynamics around cubic roughness in the urban BL literature. Using large-eddy simulation, we investigate a turbulent BL flow developed over two vertically oriented cylindrical obstacles aligned downstream. For widely separated cylinders, the wake flow undergoes periodic oscillations akin to vortex shedding behind an isolated cylinder. As the height-to-width aspect ratio (AR) of the canyon bounded by the cylinders increases, the streamline geometry exhibits a clear transition from isolated to wake interference and skimming regimes. Two-point autocorrelation functions of velocities confirm a strong coupling of canyon flow with the roughness sublayer for wider canyons, while with evident decoupling as the canyon narrows. The length scales, which measure the spatial correlation in the flow, decrease in both lateral and vertical directions with increasing AR. Turbulent kinetic energy and momentum fluxes below the roughness sublayer present pronounced monotonic scaling with AR (with R-squared values up to 0.84 and 0.98, respectively), resulting in a consistent variation in the surface roughness aerodynamic parameters, the roughness length (z0) and zero-plane displacement (d), with AR. Quantitative differences in the results with respect to those well-established for street canyons are analyzed, with the similarities highlighted. The results offer insights into boundary-layer flow parameterization concerning cylinder-occupied surface roughness.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

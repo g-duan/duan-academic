@@ -2,8 +2,8 @@
 title: "Exposure of virtual walkers in an aligned array of cuboids"
 authors:
 - admin
-date: "2017-01-07T00:00:00Z"
-doi: ""
+date: "2023-06-01T00:00:00Z"
+doi: "https://doi.org/10.1016/j.scs.2023.104501"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-06-01T00:00:00Z"
@@ -11,13 +11,13 @@ publishDate: "2023-06-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Sustainable Cities and Society"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Pollutant exposure in the urban air quality literature has been typically interpreted from data for fixed locations, which provides an incomplete picture of exposure for pedestrians (or moving receptors). The current study proposes a simple model to parameterise the exposure time for a virtual walker to cross a pollutant cloud during its sweeping downstream across the avenue. The parameterisation, which depends on the centre-of-mass translation and the cloud size, shows satisfactory performance in areas away from the outlet, whence a substantial portion of the pollutants is removed from the control domain and a well-defined centre of mass geometrically vanishes. Applying the tracer age diagnostics, the occurrence time of first exposure for the moving receptors is quantified with no particular caution required for the outlet region. The mean tracer age recorded by the virtual walkers is shown to be up to 25\%–75\% smaller than conventional spatial averages, implying earlier exposure to the pollutants and hence a reference timescale relying on the latter may lead to delayed emergency response. Evacuation route prioritisation based on virtual walker measurements coincides with that indicated by the parameterisation, suggesting the potential usefulness of the model for exposure risk evaluation against atmospheric air pollution incidents.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -42,7 +42,7 @@ url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: [**G. DUAN**](https://g-duan.github.io/duan-academic/)'
   focal_point: ""
   preview_only: false
 
@@ -62,7 +62,7 @@ projects:
 slides: example
 ---
 
-This paper was funded by Natural Science Foundation of Liaoning Province of China (Key Program for Science and Technology Innovation).
+This paper was funded by Natural Science Foundation of Liaoning Province of China (Key Program for Science and Technology Innovation). An accompanied paper [__G. Duan*__, T. Takemi & K. Ngan, K. (2023) Evaluation of pollutant exposure using virtual walkers and large-eddy simulation: Application to an idealised urban neighbourhood.  _Science of The Total Environment_](https://doi.org/10.1016/j.scitotenv.2023.162640) evaluates the PDFs for the pollutant exposure.
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.

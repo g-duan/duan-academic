@@ -2,11 +2,11 @@
 title: "Modulating local winds and turbulence around a single building obstacle with the obstruction of tall vegetation"
 authors:
 - admin
-date: "2017-01-07T00:00:00Z"
+date: "2024-10-07T00:00:00Z"
 doi: "https://doi.org/10.1063/5.0227565"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-06-07T00:00:00Z"
+# publishDate: "2024-06-07T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,7 +17,7 @@ publication_types: ["article-journal"]
 publication: "Physics of Fluids"
 publication_short: "Phys. Fluids"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Strategic vegetation placement can significantly alter airflow patterns and turbulence, fostering desired wind environments. By comparing scenarios where vegetation is placed upstream, downstream or absent (treeless) relative to a single building using large-eddy simulation, this study provides detailed insights into the sensitivity of flow dynamics to the positioning of the vegetation. Upstream vegetation more significantly disrupts the flow patterns around the building obstacle, altering vertical wind profiles and modifying wake circulations, compared to downstream vegetation. A small shear layer developed at the plant top for upstream vegetation markedly influences turbulent kinetic energy (TKE) on both the leeward and windward sides of the building, shifting the inflection point in vertical TKE profiles by up to 0.13H. By contrast, smaller tree-building separations lead to an effective merging of their aerodynamic profiles, whereas larger separations confine the streamwise breadth of turbulent fluxes, amplifying flux exchanges in the spanwise direction. Spectral analyses reveal that upstream vegetation consistently results in higher power spectral densities of the streamwise turbulence in the residential area than downstream vegetation. While small-scale spanwise velocity fluctuations are found to be comparably energetic at the building's windward side for upstream vegetation, the power becomes substantially concentrated on large-scale eddies in the building wake region, providing specific insights into modulating turbulent eddy motions within the residential zone.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

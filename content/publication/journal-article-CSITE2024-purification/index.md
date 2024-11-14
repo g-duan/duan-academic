@@ -2,7 +2,7 @@
 title: "Gas purification in a scrubber tower: Effects of the multilayer tray misalignment"
 authors:
 - admin
-date: "2017-01-07T00:00:00Z"
+date: "2014-03-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.csite.2024.104130"
 
 # Schedule page publish date (NOT publication's date).
@@ -17,7 +17,7 @@ publication_types: ["article-journal"]
 publication: "Case Studies in Thermal Engineering"
 publication_short: "Case Stud. Therm. Eng."
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Industrial gases must undergo purification to meet discharge or product standards. While the internal trays of a scrubber tower (ST) are often geometrically complex, it is possible that a simpler design with improved permeability could achieve satisfactory washing performance. Herein, the downward-flowing washing liquid and upward-rising gas inside a simplified ST, built based on the ST equipment of a Shale Oil Refinery factory, was evaluated for different tray arrangements: α=15°, 30° and 45°, where α measures the misalignment between the angle steel strips of neighboring tray layers. The initial high velocity variance present in the lower part of the tower rapidly decreases as the gas ascends across the trays, markedly for the 45° alignment, revealing an enhanced mixing of the gas with the washing liquid. Slightly below the gas outlet, the mean pressure and temperature for the 45° configuration were found to be 14% and 10K lower, respectively, than the α=15° setup, implying that the former allows a more intensified gas–liquid heat exchange and ensures a more preferable gas pressure for discharge. The insights gained from these findings are anticipated to provide valuable guidance for streamlining the tray design without compromising the desired gas purification performance.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -62,7 +62,8 @@ projects:
 slides: example
 ---
 
-Industrial gases must undergo purification to meet discharge or product standards. While the internal trays of a scrubber tower (ST) are often geometrically complex, it is possible that a simpler design with improved permeability could achieve satisfactory washing performance. Herein, the downward-flowing washing liquid and upward-rising gas inside a simplified ST, built based on the ST equipment of a Shale Oil Refinery factory, was evaluated for different tray arrangements: α=15°, 30° and 45°, where α measures the misalignment between the angle steel strips of neighboring tray layers. The initial high velocity variance present in the lower part of the tower rapidly decreases as the gas ascends across the trays, markedly for the 45° alignment, revealing an enhanced mixing of the gas with the washing liquid. Slightly below the gas outlet, the mean pressure and temperature for the 45° configuration were found to be 14% and 10K lower, respectively, than the α=15° setup, implying that the former allows a more intensified gas–liquid heat exchange and ensures a more preferable gas pressure for discharge. The insights gained from these findings are anticipated to provide valuable guidance for streamlining the tray design without compromising the desired gas purification performance.
+A very simple means for pre-treatment of contaminated industrial gases.
+
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
