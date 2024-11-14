@@ -11,10 +11,10 @@ publishDate: "2017-01-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "AMS"
+publication: "Environmental Fluid Mechanics"
 publication_short: ""
 
 abstract: The scalar dynamics within a unit-aspect-ratio street canyon are studied using large-eddy simulation. The key processes of ventilation and mixing are analysed with the canyon-averaged concentration, mean tracer age and variance. The results are sensitive to the source location and can be classified according to the streamline geometry. The canyon-averaged concentrations for the corner vortices, vortex sea and central vortex do not converge to the same value at large times, though the mean decay rates do. The variance measured with respect to the canyon average shows two distinct decay regimes: the early regime reflects large-scale straining and enhanced diffusion across streamlines, while the late regime is associated with escape from the canyon.
