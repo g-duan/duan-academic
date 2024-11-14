@@ -23,7 +23,7 @@ abstract: Industrial gases must undergo purification to meet discharge or produc
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- L. Zhao, X. Feng, J. Chen, Z. Shui, T. Yang & G. Duan* (2024) Case Stud. Therm. Eng.
+- L. Zhao, X. Feng, J. Chen, Z. Shui, T. Yang & G. Duan* (2024) Case Studies in Thermal Engineering.
 
 featured: true
 
