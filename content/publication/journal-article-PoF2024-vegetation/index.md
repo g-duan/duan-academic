@@ -1,9 +1,9 @@
 ---
-title: "Turbulent flow over aligned cylinders"
+title: "Modulating local winds and turbulence around a single building obstacle with the obstruction of tall vegetation"
 authors:
 - admin
 date: "2017-01-07T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1063/5.0227565"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-06-07T00:00:00Z"
@@ -11,7 +11,7 @@ publishDate: "2024-06-07T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Physics of Fluids"
@@ -29,8 +29,8 @@ featured: true
 
 links:
 - name: DOI
-  url:  https://doi.org/10.1063/5.0211112 
-url_pdf:  https://doi.org/10.1063/5.0211112 
+  url:  https://doi.org/10.1063/5.0227565 
+url_pdf:  https://doi.org/10.1063/5.0227565 
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: '#'
 #url_poster: '#'
@@ -62,7 +62,7 @@ projects:
 slides: example
 ---
 
-This paper belongs to [Flow and Civil Structures](https://pubs.aip.org/pof/collection/258879/Flow-and-Civil-Structures) of Physics of Fluids.
+This paper belongs to [Fluid-Structure Interaction](https://pubs.aip.org/pof/collection/375715/Fluid-Structure-Interaction) of Physics of Fluids.
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
