@@ -23,7 +23,7 @@ abstract: Strategic vegetation placement can significantly alter airflow pattern
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- G. Duan* et al. (2024) Physics of Fluids
+- G. Duan* & Z. Bi et al. (2024) Physics of Fluids
 
 featured: true
 

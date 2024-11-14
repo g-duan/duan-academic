@@ -23,7 +23,7 @@ abstract: Turbulent flow and boundary-layer (BL) characteristics over cylindrica
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- G. Duan* et al. (2024) Physics of Fluids
+- G. Duan* & R. Gao et al. (2024) Physics of Fluids
 
 featured: true
 
