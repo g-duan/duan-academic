@@ -17,7 +17,7 @@ publication_types: ["article-journal"]
 publication: "Environmental Fluid Mechanics"
 publication_short: ""
 
-abstract: The scalar dynamics within a unit-aspect-ratio street canyon are studied using large-eddy simulation. The key processes of ventilation and mixing are analysed with the canyon-averaged concentration, mean tracer age and variance. The results are sensitive to the source location and can be classified according to the streamline geometry. The canyon-averaged concentrations for the corner vortices, vortex sea and central vortex do not converge to the same value at large times, though the mean decay rates do. The variance measured with respect to the canyon average shows two distinct decay regimes: the early regime reflects large-scale straining and enhanced diffusion across streamlines, while the late regime is associated with escape from the canyon.
+abstract: The scalar dynamics within a unit-aspect-ratio street canyon are studied using large-eddy simulation.
 
 # Summary. An optional shortened abstract.
 summary: Analytical predictions for the variance-decay or mixing time scales are verified for the early regime. It is argued that the presence of an open boundary at the roof level suppresses rapid mixing of the scalar field and is responsible for differences with respect to scalar dynamics within closed domains.
@@ -42,7 +42,7 @@ url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: [**G. DUAN**](https://g-duan.github.io/duan-academic/)'
   focal_point: ""
   preview_only: false
 
