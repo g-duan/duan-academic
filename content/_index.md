@@ -51,7 +51,7 @@ sections:
         featured_only: true
     design:
       view: showcase
-      columns: 3
+      columns: 1
   - block: collection
     id: papers
     content:
@@ -62,7 +62,7 @@ sections:
           - publication
         exclude_featured: true
     design:
-      view: compact
+      view: citation
   - block: collection
     id: talks
     content:
