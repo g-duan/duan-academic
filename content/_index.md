@@ -51,7 +51,7 @@ sections:
         featured_only: true
     design:
       view: compact
-      columns: 3
+      columns: 1
   - block: collection
     id: papers
     content:
