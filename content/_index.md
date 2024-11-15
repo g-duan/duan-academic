@@ -42,7 +42,7 @@ sections:
         
     design:
       columns: '1'
-  - block: markdown
+  - block: collection
     id: papers
     content:
       title: Featured Studies
@@ -54,6 +54,7 @@ sections:
       view: article-grid
       columns: 3
   - block: collection
+    id: papers
     content:
       title: Recent Publications
       text: ""
