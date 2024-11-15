@@ -50,8 +50,8 @@ sections:
           - publication
         featured_only: true
     design:
-      view: showcase
-      columns: 1
+      view: compact
+      columns: 3
   - block: collection
     id: papers
     content:
