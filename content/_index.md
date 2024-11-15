@@ -48,7 +48,7 @@ sections:
       title: Featured Studies
       filters:
         folders:
-          - publication
+          - publication/pubfeatured
         featured_only: true
     design:
       view: article-grid
