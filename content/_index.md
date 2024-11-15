@@ -42,8 +42,8 @@ sections:
         
     design:
       columns: '1'
-  - block: features
-    id: featuredpapers
+  - block: collection
+    id: papers
     content:
       title: Featured Studies
       filters:
