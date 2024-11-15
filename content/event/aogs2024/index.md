@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**G. DUAN**](https://g-duan.github.io/duan-academic/)'
   focal_point: Right
 
 #links:
