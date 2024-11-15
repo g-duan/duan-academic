@@ -42,7 +42,7 @@ sections:
         
     design:
       columns: '1'
-  - block: collection
+  - block: features
     id: featuredpapers
     content:
       title: Featured Studies
