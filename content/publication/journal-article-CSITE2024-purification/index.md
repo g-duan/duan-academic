@@ -2,11 +2,11 @@
 title: "Gas purification in a scrubber tower: Effects of the multilayer tray misalignment"
 authors:
 - admin
-date: "2014-03-01T00:00:00Z"
+date: "2024-03-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.csite.2024.104130"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-03-01T00:00:00Z"
+# publishDate: "2024-06-07T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,13 +17,13 @@ publication_types: ["article-journal"]
 publication: "Case Studies in Thermal Engineering"
 publication_short: "Case Stud. Therm. Eng."
 
-abstract: Industrial gases must undergo purification to meet discharge or product standards. While the internal trays of a scrubber tower (ST) are often geometrically complex, it is possible that a simpler design with improved permeability could achieve satisfactory washing performance. Herein, the downward-flowing washing liquid and upward-rising gas inside a simplified ST, built based on the ST equipment of a Shale Oil Refinery factory, was evaluated for different tray arrangements.
+abstract: xxx
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- L. Zhao, X. Feng, J. Chen, Z. Shui, T. Yang & G. Duan* (2024) Case Studies in Thermal Engineering.
+- L. Zhao, X. Feng, J. Chen, Z. Shui, T. Yang & G. Duan* (2024) Case Stud. Therm. Eng.
 
 featured: true
 
@@ -63,7 +63,6 @@ slides: example
 ---
 
 A very simple means for pre-treatment of contaminated industrial gases.
-
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
