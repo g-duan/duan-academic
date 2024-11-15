@@ -43,21 +43,21 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: papers
+    id: featuredpapers
     content:
       title: Featured Studies
       filters:
         folders:
-          - publication/pubfeatured
+          - publication
         featured_only: true
     design:
       view: article-grid
       columns: 3
   - block: collection
+    id: papers
     content:
       title: Recent Publications
       text: ""
-      count: 0
       filters:
         folders:
           - publication
