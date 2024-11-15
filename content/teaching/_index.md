@@ -20,4 +20,8 @@ sections:
     design:
       view: article-grid
       columns: 2
+[[menu.main]]
+    name = "Research"
+    url = "#research"
+    weight = 10
 ---
