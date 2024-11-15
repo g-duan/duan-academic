@@ -43,7 +43,6 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: papers
     content:
       title: Featured Studies
       filters:
@@ -51,7 +50,7 @@ sections:
           - publication
         featured_only: true
     design:
-      view: article-grid
+      view: showcase
       columns: 3
   - block: collection
     id: papers
@@ -63,7 +62,7 @@ sections:
           - publication
         exclude_featured: true
     design:
-      view: citation
+      view: compact
   - block: collection
     id: talks
     content:

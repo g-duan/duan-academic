@@ -1,5 +1,5 @@
 ---
-title: "Sensitivity of turbulent flow around a 3-{D} building array to urban boundary-layer stability"
+title: "Sensitivity of turbulent flow around a 3-D building array to urban boundary-layer stability"
 authors:
 - admin
 date: "2019-08-01T00:00:00Z"
@@ -62,7 +62,7 @@ projects:
 slides: example
 ---
 
-An accompanied paper [__G. Duan*__, & K. Ngan, K. (2020) Influence of thermal stability on the ventilation of a 3-D building array.  _Building and Environment_](https://doi.org/10.1016/j.buildenv.2020.106969) further explores the ventilation pathways and associated timescales.
+An accompanied paper [__G. Duan*__ & K. Ngan, K. (2020) Influence of thermal stability on the ventilation of a 3-D building array.  _Building and Environment_](https://doi.org/10.1016/j.buildenv.2020.106969) further explores the ventilation pathways and associated timescales.
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
