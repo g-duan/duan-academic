@@ -1,5 +1,5 @@
 ---
-title: Talk at AOGS2024 21st ANNUAL MEETING
+title: Talk at AOGS2024, Pyeongchang, Korea - Home to Winter Olympics
 
 event: AOGS2024 21st ANNUAL MEETING
 event_url: https://example.org

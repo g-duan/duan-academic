@@ -1,5 +1,5 @@
 ---
-title: Vancouver after AMS 97th ANNUAL MEETING
+title: AMS 97th ANNUAL MEETING, Seattle, USA
 
 event: AMS 97th ANNUAL MEETING
 event_url: https://example.org
@@ -17,7 +17,7 @@ abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2017-01-29T08:00:00Z'
+date: '2017-01-25T08:00:00Z'
 date_end: '2017-01-29T09:00:00Z'
 all_day: true
 
