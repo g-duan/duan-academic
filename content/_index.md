@@ -65,7 +65,7 @@ sections:
     design:
       view: citation
   - block: collection
-    id: talks
+    id: events
     content:
       title: Activities
       filters:
@@ -75,7 +75,7 @@ sections:
       view: article-grid
       columns: 2
   - block: collection
-    id: news
+    id: posts
     content:
       title: Posts
       subtitle: ''

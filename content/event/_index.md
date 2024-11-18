@@ -1,7 +1,7 @@
 ---
 title: Activities
 cms_exclude: true
-#url: talks
+#url: events
 
 # View
 view: card
