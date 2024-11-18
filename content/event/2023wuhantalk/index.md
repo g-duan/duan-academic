@@ -1,6 +1,5 @@
 ---
-title: Revisiting Wuhan, PRChina\: Invited Talk
-
+title: Revisiting Wuhan, PRChina - Invited Talk
 event: Invited Talk by Dr. Y. HE
 event_url: https://example.org
 
