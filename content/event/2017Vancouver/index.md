@@ -1,19 +1,24 @@
 ---
-title: Brief visit at Hong Kong before office at Kyoto University
+title: Vancouver, Canada, after AMS 97th ANNUAL MEETING
 
-event: before office at Kyoto University
+event: UBC, English Bay, Stanley Park
 event_url: https://example.org
 
-location: Kyoto, Japan
-
+location: Vancouver, Canada
+address:
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
 
 summary: ''
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2019-06-01T08:00:00Z'
-date_end: '2024-05-31T08:00:00Z'
+date: '2017-01-29T08:00:00Z'
+date_end: '2017-01-29T09:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).

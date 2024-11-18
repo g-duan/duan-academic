@@ -1,24 +1,19 @@
 ---
-title: Munich after EPFDC2016 at Warsaw, Poland
+title: Heading Back to Dalian, After Invited Talk at AP-TCRC, Great Seeing Prof. Johnny Chan
 
-event: EPFDC2016 at Warsaw
+event: Invited Talk at Asia-Pacific Typhoon Collaborative Research Center
 event_url: https://example.org
 
-location: Munich, Germany
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: Shanghai, PRChina
+
 
 summary: ''
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2016-07-10T08:00:00Z'
-date_end: '2024-06-28T08:00:00Z'
+date: '2023-06-15T08:00:00Z'
+date_end: '2024-05-31T08:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).

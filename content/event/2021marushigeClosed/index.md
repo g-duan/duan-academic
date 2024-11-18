@@ -1,10 +1,10 @@
 ---
-title: Revisiting Wuhan, an Invited Talk
+title: Where I bought food - heard it's closed
 
-event: Invited Talk by Dr. Y. HE
+event: Retirement of Prof. Ishikawa
 event_url: https://example.org
 
-location: Wuhan, PRChina
+location: Kyoto U, Japan
 
 
 summary: ''
@@ -12,7 +12,7 @@ abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-10-14T08:00:00Z'
+date: '2021-07-20T08:00:00Z'
 date_end: '2024-05-31T08:00:00Z'
 all_day: true
 

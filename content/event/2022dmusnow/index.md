@@ -1,10 +1,10 @@
 ---
-title: CityU 
+title: Welcome the First Snow at DMU, Dalian
 
-event: CityU Congregation
-event_url: ''
+event: First Snow at DMU Campus
+event_url: https://example.org
 
-location: Hong Kong
+location: Dalian Maritime University, Dalian, PRChina
 
 
 summary: ''
@@ -12,7 +12,7 @@ abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2018-11-09T08:00:00Z'
+date: '2022-12-18T08:00:00Z'
 date_end: '2024-05-31T08:00:00Z'
 all_day: true
 

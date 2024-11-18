@@ -1,24 +1,19 @@
 ---
-title: Vancouver after AMS 97th ANNUAL MEETING
+title: In Memory of My Years at the Uji Faculty & Staff House
 
-event: UBC, English Bay, Stanley Park
+event: Uji Faculty & Staff House
 event_url: https://example.org
 
-location: Vancouver, Canada
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: Kyoto U, Japan
+
 
 summary: ''
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2017-01-29T08:00:00Z'
-date_end: '2017-01-29T09:00:00Z'
+date: '2021-08-07T08:00:00Z'
+date_end: '2024-05-31T08:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).

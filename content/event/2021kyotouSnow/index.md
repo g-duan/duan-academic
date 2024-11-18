@@ -1,7 +1,7 @@
 ---
-title: Arrived at Kyoto University 
+title: Snow, Uji Campus, Kyoto University 
 
-event: Arrived at Kyoto University
+event: Uji Campus, Kyoto University
 event_url: https://example.org
 
 location: Kyoto, Japan
@@ -12,7 +12,7 @@ abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2019-06-01T08:00:00Z'
+date: '2021-01-12T08:00:00Z'
 date_end: '2024-05-31T08:00:00Z'
 all_day: true
 

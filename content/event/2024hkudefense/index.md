@@ -1,10 +1,10 @@
 ---
-title: Finalising the Paperwork at Kyoto U
+title: Short Visit to Hong Kong: External Examiner at HKU PhD Thesis Defense 
 
-event: Appreciate Toda-san's Help
+event: Brief Visit at Hong Kong
 event_url: https://example.org
 
-location: Uji City, Kyoto, Japan
+location: Hong Kong SAR
 
 
 summary: ''
@@ -12,7 +12,7 @@ abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2020-04-23T08:00:00Z'
+date: '2024-06-14T08:00:00Z'
 date_end: '2024-05-31T08:00:00Z'
 all_day: true
 
