@@ -1,5 +1,5 @@
 ---
-title: Paper Work at Uji City, Kyoto
+title: Paperwork at Uji City, Kyoto
 
 event: Uji City, Kyoto
 event_url: https://example.org
