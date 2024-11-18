@@ -1,5 +1,5 @@
 ---
-title: Short Visit to Hong Kong: External Examiner at HKU PhD Thesis Defense 
+title: Short Visit to Hong Kong - External Examiner at HKU PhD Thesis Defense 
 
 event: Brief Visit at Hong Kong
 event_url: https://example.org
