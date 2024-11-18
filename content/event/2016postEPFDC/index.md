@@ -1,10 +1,10 @@
 ---
-title: Talk at EPFDC2016, Warsaw, Poland
+title: Munich, Germany, after EPFDC2016 at Warsaw
 
-event: EPFDC2016, Grateful for the Financial Support from City University of Hong Kong
+event: EPFDC2016 at Warsaw
 event_url: https://example.org
 
-location: Warsaw, Poland
+location: Munich, Germany
 address:
   street: 450 Serra Mall
   city: Stanford
@@ -17,7 +17,7 @@ abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2016-07-08T08:00:00Z'
+date: '2016-07-10T08:00:00Z'
 date_end: '2024-06-28T08:00:00Z'
 all_day: true
 
