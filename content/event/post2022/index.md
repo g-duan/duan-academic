@@ -2,7 +2,7 @@
 title: Finalising the Paperwork at Kyoto U
 
 event: Appreciate Toda-san's Help
-event_url: ''
+event_url: https://example.org
 
 location: Uji City, Kyoto, Japan
 

@@ -2,7 +2,7 @@
 title: Revisiting Wuhan, an Invited Talk
 
 event: Invited Talk by Dr. Y. HE
-event_url: ''
+event_url: https://example.org
 
 location: Wuhan, PRChina
 

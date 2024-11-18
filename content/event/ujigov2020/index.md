@@ -2,7 +2,7 @@
 title: Paper Work at Uji City, Kyoto
 
 event: Uji City, Kyoto
-event_url: ''
+event_url: https://example.org
 
 location: Uji City, Kyoto, Japan
 

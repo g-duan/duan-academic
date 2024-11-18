@@ -2,7 +2,7 @@
 title: Celebrating the Retirement of Prof. Ishikawa
 
 event: Retirement of Prof. Ishikawa
-event_url: ''
+event_url: https://example.org
 
 location: Kyoto U, Japan
 

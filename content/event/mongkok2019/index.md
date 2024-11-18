@@ -2,7 +2,7 @@
 title: Brief visit at Hong Kong before office at Kyoto University
 
 event: before office at Kyoto University
-event_url: ''
+event_url: https://example.org
 
 location: Kyoto, Japan
 

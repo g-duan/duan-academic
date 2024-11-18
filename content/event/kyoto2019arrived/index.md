@@ -2,7 +2,7 @@
 title: Arrived at Kyoto University 
 
 event: Arrived at Kyoto University
-event_url: ''
+event_url: https://example.org
 
 location: Kyoto, Japan
 

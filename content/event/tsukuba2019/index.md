@@ -2,7 +2,7 @@
 title: ERCA Project Meeting at Tsukuba University 
 
 event: Arrived at Tokyo Station
-event_url: ''
+event_url: https://example.org
 
 location: Tokyo, Japan
 

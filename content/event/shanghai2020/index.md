@@ -2,7 +2,7 @@
 title: New Year at Shanghai 
 
 event: Arrived at Shanghai
-event_url: ''
+event_url: https://example.org
 
 location: Shanghai, PRChina
 

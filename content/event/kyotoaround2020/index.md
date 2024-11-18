@@ -2,7 +2,7 @@
 title: Short Visit Around Kinkakuji (Temple of the Golden Pavilion)
 
 event: Short Visit Around Kinkakuji
-event_url: ''
+event_url: https://example.org
 
 location: Kyoto, Japan
 
