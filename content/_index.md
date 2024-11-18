@@ -43,12 +43,12 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: feature
+    id: featuredstudies
     content:
       title: Featured Studies
       filters:
         folders:
-          - publication
+          - featuredstudies
         featured_only: true
     design:
       view: compact
@@ -67,7 +67,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent Activities
+      title: Activities
       filters:
         folders:
           - event
@@ -77,7 +77,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: Posts
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
