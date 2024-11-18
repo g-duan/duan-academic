@@ -43,6 +43,7 @@ sections:
     design:
       columns: '1'
   - block: collection
+    id: feature
     content:
       title: Featured Studies
       filters:
@@ -66,7 +67,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent Talks
+      title: Recent Activities
       filters:
         folders:
           - event

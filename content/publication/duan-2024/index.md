@@ -34,4 +34,6 @@ abstract: Turbulent flow and boundary-layer (BL) characteristics over cylindrica
 links:
 - name: URL
   url: https://doi.org/10.1063/5.0211112
+image: 
+  preview only: true 
 ---
