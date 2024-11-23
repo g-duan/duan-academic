@@ -1,5 +1,5 @@
 ---
-title: Office at Uji Campus
+title: Office at Uji Campus, Kyoto University
 
 event: Uji Campus, Kyoto University
 event_url: https://example.org

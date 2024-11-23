@@ -1,7 +1,7 @@
 ---
-title: Finalising the Paperwork at Kyoto U
+title: Finalising the Paperwork at Kyoto U - Appreciate Toda-san and Takemi-sensei's Help
 
-event: Appreciate Toda-San and Takemi-sensei's Help
+event: Papers From Kyoto U
 event_url: https://example.org
 
 location: Uji City, Kyoto, Japan
