@@ -1,7 +1,7 @@
 ---
 title: Turbulent flow and dispersion inside and around elevated walkways
 authors:
-- G. Duan
+- G. Duan*
 - P. Brimblecombe
 - Y. L. Chu
 - K. Ngan

@@ -1,7 +1,7 @@
 ---
 title: Impacts of urban morphometric indices on ventilation
 authors:
-- G. Duan
+- G. Duan*
 - K. Nakamae
 - T. Takemi
 date: '2023-01-01'

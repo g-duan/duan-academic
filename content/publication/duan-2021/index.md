@@ -2,7 +2,7 @@
 title: Gustiness in thermally-stratified urban turbulent boundary-layer flows and
   the influence of surface roughness
 authors:
-- G. Duan
+- G. Duan*
 - T. Takemi
 date: '2021-01-01'
 publishDate: '2024-11-09T00:58:23.210938Z'

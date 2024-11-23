@@ -1,7 +1,7 @@
 ---
 title: Predicting urban surface roughness aerodynamic parameters using random forest
 authors:
-- G. Duan
+- G. Duan*
 - T. Takemi
 date: '2021-01-01'
 publishDate: '2024-11-09T00:39:54.684127Z'
