@@ -6,7 +6,7 @@ title: Guangdong Duan
 name_pronunciation: '' 
 
 # Full name (for SEO)
-first_name: Guangdong
+first_name: G.
 last_name: Duan 
 
 # Status emoji
