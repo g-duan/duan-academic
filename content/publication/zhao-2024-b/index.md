@@ -4,7 +4,7 @@ title: 'Microwave heating of oil shale based on multiphysics field coupling: Pos
 authors:
 - L. Zhao
 - X. Ming
-- G. Duan
+- G. Duan*
 date: '2024-01-01'
 publishDate: '2024-11-09T00:39:54.647814Z'
 publication_types:
