@@ -2,7 +2,7 @@
 title: 'Evaluation of pollutant exposure using virtual walkers and large-eddy simulation:
   Application to an idealised urban neighbourhood'
 authors:
-- "**G. Duan**^*^"
+- "__G. Duan__*"
 - T. Takemi
 - K. Ngan
 date: '2023-01-01'
