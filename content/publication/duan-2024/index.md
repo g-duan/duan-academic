@@ -1,7 +1,7 @@
 ---
 title: Turbulent flow over aligned cylindrical obstacles
 authors:
-- G. Duan
+- G. Duan*
 - R. Gao
 - L. Zhao
 - T. Yang

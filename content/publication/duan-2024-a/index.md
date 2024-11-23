@@ -2,7 +2,7 @@
 title: Modulating local winds and turbulence around a single building obstacle with
   the obstruction of tall vegetation
 authors:
-- G. Duan
+- G. Duan*
 - Z. Bi
 - L. Zhao
 - T. Yang

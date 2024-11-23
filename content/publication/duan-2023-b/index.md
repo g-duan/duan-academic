@@ -2,7 +2,7 @@
 title: 'Measuring pollutant exposure using large-eddy simulation and virtual walkers:
   Analysis of tracer age statistics of idealised urban boundary-layer flows'
 authors:
-- G. Duan
+- G. Duan*
 - T. Takemi
 - K. Ngan
 date: '2023-01-01'
