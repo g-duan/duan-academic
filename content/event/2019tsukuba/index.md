@@ -1,5 +1,5 @@
 ---
-title: ERCA Project Meeting at Tsukuba University 
+title: ERCA Project Meeting at Tsukuba University, Great Seeing Prof. H. Kusaka
 
 event: Arrived at Tokyo Station
 event_url: https://example.org

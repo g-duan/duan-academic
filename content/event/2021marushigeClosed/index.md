@@ -1,5 +1,5 @@
 ---
-title: Where I bought food - heard it's closed
+title: Used to Grab Food and Drinks — Heard It's Closed
 
 event: Retirement of Prof. Ishikawa
 event_url: https://example.org
