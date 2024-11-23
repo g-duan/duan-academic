@@ -1,12 +1,12 @@
 ---
 # Display name
-title: G. Duan
+title: Guangdong Duan
 
 # Name pronunciation (optional)
 name_pronunciation: '' 
 
 # Full name (for SEO)
-first_name: Guangdong
+first_name: G.
 last_name: Duan 
 
 # Status emoji
