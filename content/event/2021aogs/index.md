@@ -1,5 +1,5 @@
 ---
-title: Talk at AOGS2021, Singapore (Online)
+title: Talk at AOGS2021, Singapore (Online) - The Pandemic Has Changed the Way We Meet
 
 event: The Pandemic has changed the way we meet
 event_url: https://example.org

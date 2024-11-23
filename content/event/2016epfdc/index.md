@@ -1,7 +1,7 @@
 ---
 title: Talk at EPFDC2016, Warsaw, Poland
 
-event: EPFDC2016, Grateful for the Financial Support from City University of Hong Kong
+event: EPFDC2016, Grateful for Keith's help and the Financial Support from City University of Hong Kong
 event_url: https://example.org
 
 location: Warsaw, Poland

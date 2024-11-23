@@ -1,7 +1,7 @@
 ---
-title: Talk at CPCE Health Conference at The Hong Kong Polytechnic University
+title: Talk at CPCE Health Conference, The Hong Kong Polytechnic University
 
-event: Talk at CPCE, Appreciate Dr. K.W. Lo and Dr. K. Ngan's support
+event: Talk at CPCE, Appreciate Ka Wai and Keith's support
 event_url: https://example.org
 
 location: PolyU, Hong Kong

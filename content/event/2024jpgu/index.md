@@ -1,5 +1,5 @@
 ---
-title: Talk at JpGU2024, Chiba, Japan
+title: Talk at JpGU2024, Chiba, Japan - Nice Meeting Prof. T. Takemi
 
 event: JpGU2024
 event_url: https://example.org
