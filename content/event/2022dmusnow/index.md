@@ -1,7 +1,7 @@
 ---
-title: Welcome the First Snow at DMU, Dalian
+title: First Snow Since Joined DMU, Dalian
 
-event: First Snow at DMU Campus
+event: Snow at DMU Campus
 event_url: https://example.org
 
 location: Dalian Maritime University, Dalian, PRChina

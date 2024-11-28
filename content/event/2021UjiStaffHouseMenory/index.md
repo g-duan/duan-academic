@@ -1,5 +1,5 @@
 ---
-title: In Memory of My Years at the Uji Faculty & Staff House
+title: In Memory of My Years at Uji Faculty & Staff House
 
 event: Uji Faculty & Staff House
 event_url: https://example.org

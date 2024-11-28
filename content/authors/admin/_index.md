@@ -114,6 +114,6 @@ awards:
 
 ## About Me
 
-This website is still [under construction](https://hugoblox.com/templates/details/academic-cv/) ... Hopefully the current version provides sufficient information for reaching out.
+This website is still [under construction](https://www.researchgate.net/profile/Guangdong-Duan) ... Hopefully the current version provides sufficient information for reaching out.
 
 I realised that eventually I’d need to create a personal website to introduce my research. The university’s website is quite outdated, and with an uncertain transition in my next-term appointment, this site offers a reliable way to share my work. I am currently an Associate Professor at Dalian Maritime University. My research focuses on urban boundary-layer meteorology, air pollution and exposure, environmental and engineering fluid mechanics and thermophysics.
