@@ -1,4 +1,11 @@
-name: Deploy website to GitHub Pages
+steps:
+- uses: actions/download-artifact@v4
+  with:
+    name: my-artifact
+- name: Display structure of downloaded files
+  run: ls -R
+  
+  name: Deploy website to GitHub Pages
 
 env:
   WC_HUGO_VERSION: '0.136.5'
