@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Associate Professor 
+role: Professor 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Dalian Maritime University 
+  - name: Shenyang Aerospace University #Dalian Maritime University 
     url: https://www.researchgate.net/profile/Guangdong-Duan
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:gdduan@126.com'
+    url: 'mailto:g.duan@my.cityu.edu.hk'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -45,11 +45,11 @@ profiles:
     url: https://orcid.org/0000-0003-3045-9261
 
 interests:
-  - Computational Fluid Dynamics 
   - Boundary-Layer Meteorology
   - Urban and Built Environment
   - Engineering Thermophysics 
-  - Artificial Intelligence
+  - Air Pollution and Exposure 
+  - Computational Fluid Dynamics 
 
 education:
   - area: PhD Energy and Environmental Science 
@@ -68,13 +68,22 @@ education:
     date_end: 2009-07-01
 
 work:
+  - position: Professor 
+    company_name: Shenyang Aerospace University 
+    company_url: https://en.sau.edu.cn/
+    company_logo: SAU
+    location: P.R.China
+    date_start: 2025-04-01
+    date_end: ''
+
+    
   - position: Associate Professor 
     company_name: Dalian Maritime University 
     company_url: https://english.dlmu.edu.cn/
     company_logo: DMU
     location: P.R.China
     date_start: 2021-10-01
-    date_end: ''
+    date_end: 2025-03-30
 
     
   - position: Research Assistant Professor 
@@ -114,6 +123,6 @@ awards:
 
 ## About Me
 
-This website is still [under construction](https://www.researchgate.net/profile/Guangdong-Duan) ... Hopefully the current version provides sufficient information for reaching out.
+I realised that eventually I’d need to create a personal webpage to introduce my research. This website is still [under construction](https://www.researchgate.net/profile/Guangdong-Duan) ... Hopefully the current version provides sufficient information for reaching out.
 
-I realised that eventually I’d need to create a personal website to introduce my research. The university’s website is quite outdated, and with an uncertain transition in my next-term appointment, this site offers a reliable way to share my work. I am currently an Associate Professor at Dalian Maritime University. My research focuses on urban boundary-layer meteorology, air pollution and exposure, environmental and engineering fluid mechanics and thermophysics.
+I recently joined Shenyang Aerospace University (SAU) as a full professor after my appointment as an Associate Professor at Dalian Maritime University. My research focuses on urban boundary-layer meteorology, air pollution and exposure, environmental and engineering fluid mechanics, thermophysics and computational fluid dynamics.
